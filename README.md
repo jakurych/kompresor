@@ -1,2 +1,2 @@
 # kompresor
-Kompresor i dekompresor działający na podstawie tabeli kodowej utworzonej na podstawie drzewa Huffmana
+Kompresor i dekompresor działający na tabeli kodowej tworzonej przy użyciu drzewa Huffmana
